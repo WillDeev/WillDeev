@@ -47,7 +47,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/WillDeev/WillDeev/main/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WillDeev/WillDeev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 

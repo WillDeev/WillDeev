@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2b9e1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+William;Sou+Desenvolvedor+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
-###
-
-###
-
 <h2 align="left">Sobre mim</h2>
 
 ###
@@ -47,7 +43,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/WillDeev/WillDeev/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 

@@ -62,7 +62,7 @@
   <a href="https://www.instagram.com/praque_insta/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:williamferreira2004.contato@gmail.com?subject=williamferreira2004.contato@gmail.com&body=williamferreira2004.contato@gmail.com" target="_blank">
+  <a href="mailto:williamferreira2004.contato@gmail.com?subject=williamferreira2004.contato@gmail.com&body=williamferreira2004.contato@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
